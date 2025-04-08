@@ -53,7 +53,6 @@ Applications:
 - 📧 Email: nuzulanabdullah@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/nassor-salum 
 
-
 ---
 
 Thanks for visiting my portfolio!
