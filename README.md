@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there 👋 I'm Nassor Salum
 
-<!--
-**Nassor-Salum/Nassor-Salum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my professional portfolio. I am a dedicated **Petroleum Engineer** with experience in:
 
-Here are some ideas to get you started:
+- 🛢️ Oil & gas extraction optimization  
+- 🧪 Reservoir analysis and simulation  
+- 🛠️ Drilling techniques & well performance  
+- 📊 Production enhancement strategies  
+- 🧰 Tools: PETREL, Eclipse, CMG, Python, MATLAB, ANSYS Mechanical, Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🔍 **Reservoir Simulation Case Study** — Modeled resevoir structures and properties, using Petrel and Eclipse, compared recovery factors under various scenarios.
+- 🛠️ **Drilling Optimization Design** — Developed a drilling program reducing NPT by 15% in directional wells.
+- 📈 **Production Data Analysis** — Applied decline curve analysis using Excel and Python and nodal anlysis using Petrel to forecast production.
+  
+## 💼 Technical Skills
+
+🛢 Reservoir and Production Engineering
+-Software: Petrel & Eclipse
+
+Core Skills:
+
+-Structural Modeling & Property Modeling
+-Development Planning & Strategy
+-History Matching & Performance Forecasting
+-Reservoir Behavior Prediction in Existing & New Fields
+-Optimization of Operating Conditions for Maximum Economic Recovery
+-Sensitivity & Uncertainty Analysis
+-EOR and Production Technology
+
+  🧠 Design & Simulation
+-Software: CAD tools (AutoCAD, Fusion 360), Ansys Mechanical
+
+Applications:
+
+-Equipment and Component Design
+-Mechanical Simulation and Stress Analysis
+
+ 💰 Investment Projects
+
+-Financial Analysis of Investment Projects
+-Cash Flow Component Evaluation
+-Economic Feasibility Studies
+
+## 🎓 Education
+
+- **BSc in Petroleum Engineering**  
+  Almaty, Kazakhstan  
+  Kazakh-British Technical University
+
+## 📫 Contact
+
+- 📧 Email: nuzulanabdullah@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/nassor-salum 
+
+
+---
+
+Thanks for visiting my portfolio!
