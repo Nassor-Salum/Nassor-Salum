@@ -9,7 +9,12 @@ Welcome to my professional portfolio. I am a dedicated **Petroleum Engineer** wi
 - 🧰 Tools: PETREL, Eclipse, CMG, Python, MATLAB, ANSYS Mechanical, Excel
 
 ## 📂 Projects
-- 🔍 **Reservoir Simulation Case Study** — Modeled resevoir structures and properties, using Petrel and Eclipse, compared recovery factors under various scenarios.
+- 🔍 **Structural & Property Upscaling for Reservoir Simulation** — Modeled resevoir structures and properties, using Petrel and Eclipse, compared recovery factors under various scenarios.
+ ### 🧱 [Structural & Property Upscaling for Reservoir Simulation](https://github.com/nassor-salum/structural-property-upscaling)  
+*Petrel, Eclipse – Grid Resolution, Property Upscaling, Simulation*
+
+Performed structural grid refinement (coarse to fine) and property upscaling (porosity, permeability). Used Petrel for geological and grid modeling, then ran simulations in Eclipse to analyze the production behavior post-upscaling. The project focused on enhancing simulation reliability and interpreting production trends.
+
 - 🛠️ **Drilling Optimization Design** — Developed a drilling program reducing NPT by 15% in directional wells.
 - 📈 **Production Data Analysis** — Applied decline curve analysis using Excel and Python and nodal anlysis using Petrel to forecast production.
   
