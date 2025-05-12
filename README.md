@@ -16,8 +16,16 @@ Welcome to my professional portfolio. I am a dedicated **Petroleum Engineer** wi
 Performed structural grid refinement (coarse to fine) and property upscaling (porosity, permeability). Used Petrel for geological and grid modeling, then ran simulations in Eclipse to analyze the production behavior post-upscaling. The project focused on enhancing simulation reliability and interpreting production trends.
 
 
-   ### 📈 [Optimization, History Matching & Sensitivity Analysis in Petrel](https://github.com/Nassor-Salum/optimization-under-uncertainty-petrel)
+   ### 📈 [Optimization, History Matching & Sensitivity Analysis in Petrel](https://github.com/Nassor-Salum/optimization-under-uncertainty-petrel)  
+*Petrel, Eclipse – Uncertainty Analysis, History Matching, Forecasting*
+
 A detailed project focused on maximizing reservoir production through scenario testing, history matching, and sensitivity analysis using Petrel and Eclipse. Includes uncertainty analysis and optimal parameter identification to improve oil recovery performance.
+
+
+   ### 💧 [Waterflooding & Hydraulic Fracturing Simulation in Eclipse](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing)  
+*Eclipse – Waterflooding, Fracturing, Pattern Injection, Oil Recovery*
+
+Simulated enhanced oil recovery using water injection and hydraulic fracturing under a five-spot injection pattern. Analyzed sweep efficiency, water breakthrough, and improved oil recovery through fracture-stimulated production wells. Used ECLIPSE to visualize saturation movement and production trends over time.
 
   
 ## 💼 Technical Skills
