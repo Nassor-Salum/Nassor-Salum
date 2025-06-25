@@ -13,10 +13,10 @@ Welcome to my professional portfolio. I am a dedicated **Petroleum Engineer** wi
 
 ### 🔧 [Fluid Control Valve – Design and Simulation](https://github.com/Nassor-Salum/fluid-control-valve)
 
-- ✅ Designed a fluid control valve using Fusion 360
-- 🛠️ Modeled individual components and assembled the full system
-- 💡 Included rendered view, exploded view, isometric view, and animation
-- 🎞️ [Watch Disassembly Animation](https://drive.google.com/file/d/1-BdUUIWZbmoIM7lZNpQBGF0SETAfhktn/view?usp=drivesdk)
+Designed and simulated a mechanical fluid control valve using Fusion 360. Modeled all individual components, assembled them into a full valve system, and created an exploded animation to demonstrate the internal structure. Delivered final visuals including isometric view, exploded view, and high-quality rendered image. The project focused on visualizing mechanical functionality, supporting manufacturing readiness, and demonstrating CAD-based assembly processes.
+
+🎞️ [Watch Disassembly Animation](https://drive.google.com/file/d/1-BdUUIWZbmoIM7lZNpQBGF0SETAfhktn/view?usp=drivesdk)
+
 
 
    ### 🧱 [Structural & Property Upscaling for Reservoir Simulation](https://github.com/nassor-salum/structural-property-upscaling)  
@@ -25,10 +25,12 @@ Welcome to my professional portfolio. I am a dedicated **Petroleum Engineer** wi
 Performed structural grid refinement (coarse to fine) and property upscaling (porosity, permeability). Used Petrel for geological and grid modeling, then ran simulations in Eclipse to analyze the production behavior post-upscaling. The project focused on enhancing simulation reliability and interpreting production trends.
 
 
+
    ### 📈 [Optimization, History Matching & Sensitivity Analysis in Petrel](https://github.com/Nassor-Salum/optimization-under-uncertainty-petrel)  
 *Petrel, Eclipse – Uncertainty Analysis, History Matching, Forecasting*
 
 A detailed project focused on maximizing reservoir production through scenario testing, history matching, and sensitivity analysis using Petrel and Eclipse. Includes uncertainty analysis and optimal parameter identification to improve oil recovery performance.
+
 
 
    ### 💧 [Waterflooding & Hydraulic Fracturing Simulation in Eclipse](https://github.com/Nassor-Salum/waterflooding-hydraulic-fracturing)  
