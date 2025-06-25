@@ -11,8 +11,8 @@ Welcome to my professional portfolio. I am a dedicated **Petroleum Engineer** wi
 
 ## 📂 Projects
 
-### 🔧 [Fluid Control Valve – Design and Simulation](https://github.com/Nassor-Salum/fluid-control-valve)
-
+   ### 🔧 [Fluid Control Valve – Design and Simulation](https://github.com/Nassor-Salum/fluid-control-valve)
+*Autodesk Fusion 360 - Control Valve design, Simulation & Animation*
 Designed and simulated a mechanical fluid control valve using Fusion 360. Modeled all individual components, assembled them into a full valve system, and created an exploded animation to demonstrate the internal structure. Delivered final visuals including isometric view, exploded view, and high-quality rendered image. The project focused on visualizing mechanical functionality, supporting manufacturing readiness, and demonstrating CAD-based assembly processes.
 
 🎞️ [Watch Disassembly Animation](https://drive.google.com/file/d/1-BdUUIWZbmoIM7lZNpQBGF0SETAfhktn/view?usp=drivesdk)
