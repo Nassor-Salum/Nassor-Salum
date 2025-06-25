@@ -37,6 +37,11 @@ A detailed project focused on maximizing reservoir production through scenario t
 
 Simulated enhanced oil recovery using water injection and hydraulic fracturing under a five-spot injection pattern. Analyzed sweep efficiency, water breakthrough, and improved oil recovery through fracture-stimulated production wells. Used ECLIPSE to visualize saturation movement and production trends over time.
 
+
+### 🔍 [Well Logging Interpretation – Shale Volume, Hydrocarbon Zones & Lithology](https://github.com/Nassor-Salum/well-logging-interpretation)
+
+Interpreted subsurface reservoir conditions using well log data in Microsoft Excel. Analyzed multiple log types to estimate shale volume using Steiber, Clavier, and Larionov models, assess wellbore stability via caliper and bit size tracks, and identify hydrocarbon-bearing zones through density-neutron crossplots. Used PEF-density combinations to distinguish lithologies (sandstone, dolomite, etc.). Delivered clear visual outputs and comparative models to support reservoir characterization. The project demonstrates data-driven petrophysical analysis and spreadsheet-based modeling in well evaluation workflows.
+
   
 ## 💼 Technical Skills
 
