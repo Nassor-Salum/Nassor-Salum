@@ -7,8 +7,17 @@ Welcome to my professional portfolio. I am a dedicated **Petroleum Engineer** wi
 - 🛠️ Drilling techniques & well performance  
 - 📊 Production enhancement strategies  
 - 🧰 Tools: PETREL, Eclipse, CMG, Python, MATLAB, ANSYS Mechanical, Excel
+  
 
 ## 📂 Projects
+
+### 🔧 [Fluid Control Valve – Design and Simulation](https://github.com/Nassor-Salum/fluid-control-valve)
+
+- ✅ Designed a fluid control valve using Fusion 360
+- 🛠️ Modeled individual components and assembled the full system
+- 💡 Included rendered view, exploded view, isometric view, and animation
+- 🎞️ [Watch Disassembly Animation](https://drive.google.com/file/d/1-BdUUIWZbmoIM7lZNpQBGF0SETAfhktn/view?usp=drivesdk)
+
 
    ### 🧱 [Structural & Property Upscaling for Reservoir Simulation](https://github.com/nassor-salum/structural-property-upscaling)  
 *Petrel, Eclipse – Grid Resolution, Property Upscaling, Simulation*
