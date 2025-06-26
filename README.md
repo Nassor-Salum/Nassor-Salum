@@ -13,6 +13,7 @@ Welcome to my professional portfolio. I am a dedicated **Petroleum Engineer** wi
 
    ### 🔧 [Fluid Control Valve – Design and Simulation](https://github.com/Nassor-Salum/fluid-control-valve)
 *Autodesk Fusion 360 - Control Valve design, Simulation & Animation*
+
 Designed and simulated a mechanical fluid control valve using Fusion 360. Modeled all individual components, assembled them into a full valve system, and created an exploded animation to demonstrate the internal structure. Delivered final visuals including isometric view, exploded view, and high-quality rendered image. The project focused on visualizing mechanical functionality, supporting manufacturing readiness, and demonstrating CAD-based assembly processes.
 
 
@@ -40,12 +41,14 @@ Simulated enhanced oil recovery using water injection and hydraulic fracturing u
 
 
 ### 🔍 [Well Logging Interpretation – Shale Volume, Hydrocarbon Zones & Lithology](https://github.com/Nassor-Salum/well-logging-interpretation)
+*Petrophysics, Reservoir Characterization, Well Log Analysis, Shale & Hydrocarbon Identification*
 
 Interpreted subsurface reservoir conditions using well log data in Microsoft Excel. Analyzed multiple log types to estimate shale volume using Steiber, Clavier, and Larionov models, assess wellbore stability via caliper and bit size tracks, and identify hydrocarbon-bearing zones through density-neutron crossplots. Used PEF-density combinations to distinguish lithologies (sandstone, dolomite, etc.). Delivered clear visual outputs and comparative models to support reservoir characterization. The project demonstrates data-driven petrophysical analysis and spreadsheet-based modeling in well evaluation workflows.
 
 
 
 ### 🔄 [Jacobi Method for 2D Laplace Equation – Pressure Field Simulation](https://github.com/Nassor-Salum/jacobi-method-laplace-2d)
+*Python, Jacobi Iteration, Pressure Field & Fluid Flow Modeling*
 
 Implemented the Jacobi iterative method in Python to solve the 2D Laplace equation, modeling steady-state pressure distribution over a defined domain. Applied fixed boundary conditions representing fluid inlet and outlet zones—common in fluid mechanics and porous media applications. The simulation visualizes how pressure equilibrates across the domain, supporting understanding of potential flow, seepage, and incompressible fluid behavior. Iterative results were plotted using Matplotlib to observe the convergence behavior and contour development. The project demonstrates numerical PDE solving and pressure field visualization, with direct applications in reservoir simulation, CFD, and transport modeling.
 
